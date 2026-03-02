@@ -4,3 +4,5 @@ Bird damage to crops poses a serious threat to numerous communities, especially 
 ## Find the PCB Design here: 
 https://oshwlab.com/samuelochor/bird_repeller
 
+## Social Media Post (LinkedIN)
+https://www.linkedin.com/posts/samuel-ochor_my-university-of-nairobi-final-year-project-share-7430160375930798084-AFUr?utm_source=share&utm_medium=member_desktop&rcm=ACoAACV0gGwBloTf3EGWuVsJyWnLVfmk77aWweg
